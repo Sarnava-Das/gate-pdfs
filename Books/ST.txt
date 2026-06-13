@@ -1,0 +1,9 @@
+Statistics:
+https://stat110.hsites.harvard.edu/
+https://www.ekzhang.com/assets/pdf/Stat_210_Notes.pdf
+
+Real Analysis:
+https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/
+
+Stochastic Process:
+https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/
